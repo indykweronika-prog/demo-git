@@ -27,3 +27,4 @@ MIT
  
 ## Autorzy
 Weronika Indyk - indyk.weronika@gmail.com
+Dopisanie w przeglądarce
