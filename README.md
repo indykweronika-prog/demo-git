@@ -27,4 +27,8 @@ MIT
  
 ## Autorzy
 Weronika Indyk - indyk.weronika@gmail.com
+<<<<<<< HEAD
 zmiana testowa
+=======
+Dopisanie w przeglądarce
+>>>>>>> 18c553d2ba031696c7046e80a4e852a0fc86380c
